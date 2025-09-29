@@ -18,10 +18,10 @@ Amaç, biyoinformatik veriler üzerinde çalışan bir ML modelini **web arayüz
 ```
 dna-classifier-app/
 │
-├── frontend/ # React (Vite) projesi
+├── vite-project/ # React (Vite) projesi
 │ └── src/App.jsx
 │
-├── backend/
+├
 │ ├── app.py # Flask API
 │ ├── train_model.py # Model eğitimi
 │ ├── model.pkl # Eğitilmiş model
